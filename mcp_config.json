@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sdwan-mcp-server": {
+      "command": "python",
+      "args": ["/path/to/your/project/main.py"],
+      "env": {
+        "PYTHONPATH": "/path/to/your/project"
+      }
+    }
+  }
+}
