@@ -1,0 +1,24 @@
+# SD-WAN MCP Server Dependencies
+# Core MCP framework
+mcp>=1.0.0
+
+# HTTP requests and API calls
+requests>=2.31.0
+
+# HTTP client utilities and SSL handling
+urllib3>=2.0.0
+
+# Optional: Enhanced environment variable support
+# python-dotenv>=1.0.0
+
+# Optional: Testing framework
+# pytest>=7.0.0
+
+# Optional: Code formatting and linting
+# black>=23.0.0
+# flake8>=6.0.0
+
+# Development dependencies (uncomment if needed)
+# pytest-asyncio>=0.21.0  # For async testing
+# pytest-mock>=3.10.0     # For mocking in tests
+# coverage>=7.0.0          # Test coverage reports
